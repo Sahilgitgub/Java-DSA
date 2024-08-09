@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/Average/Average.iml" filepath="$PROJECT_DIR$/ArrayList/Average/Average.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/EvenOdd/EvenOdd.iml" filepath="$PROJECT_DIR$/ArrayList/EvenOdd/EvenOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMapExample/HashMapExample.iml" filepath="$PROJECT_DIR$/HashMapExample/HashMapExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked_List/Linked_List.iml" filepath="$PROJECT_DIR$/Linked_List/Linked_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/Self_practise/Self_practise.iml" filepath="$PROJECT_DIR$/recursion/Self_practise/Self_practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/String/String.iml" filepath="$PROJECT_DIR$/recursion/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/distinct_elements/distinct_elements.iml" filepath="$PROJECT_DIR$/ArrayList/distinct_elements/distinct_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/leet_code/leet_code.iml" filepath="$PROJECT_DIR$/recursion/leet_code/leet_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/smaller_element/smaller_element.iml" filepath="$PROJECT_DIR$/ArrayList/smaller_element/smaller_element.iml" />
+    </modules>
+  </component>
+</project>
