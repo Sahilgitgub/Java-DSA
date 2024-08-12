@@ -56,7 +56,10 @@ public class Main {
         int nodes[] = {1, -1, 2, 3, -1, -1};
         BinaryTree tree = new BinaryTree();
         Node root = tree.buildTree(nodes);
-        System.out.println("hii");
+        tree.postorder(root);
+        System.out.println();
+        tree.preorder(root);
+        System.out.println();
         tree.inorder(root);
     }
 }
