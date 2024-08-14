@@ -47,7 +47,7 @@ public class Main {
                 return;
             }
             postorder(root.left);
-            postorder(root.right);
+            postorder(root.right);///93
             System.out.print(root.data + " ");
         }
     }
