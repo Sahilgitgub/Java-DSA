@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class max_element_node {
+public class find_element {
     public class Node
     {
         int data;
@@ -17,7 +17,7 @@ public class max_element_node {
     private Node root;
     Scanner sc=new Scanner(System.in);
 
-    max_element_node()
+    find_element()
     {
         root=GenerateTree();
     }
@@ -96,7 +96,7 @@ public class max_element_node {
 
     }
     public static void main(String[] args) {
-        max_element_node bt=new max_element_node();
+        find_element bt=new find_element();
         bt.Display();
         System.out.println(bt.find(80));
     }
